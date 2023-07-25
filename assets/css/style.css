@@ -807,6 +807,10 @@ section {
   .breadcrumbs ol li {
     display: inline-block;
   }
+
+  .typed{
+    font-size: 20px;
+  }
 }
 
 /*--------------------------------------------------------------
