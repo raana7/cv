@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   #particles-js p{
-    font-size: 22px;
+    font-size: 20px;
   }
   #particles-js h2 {
     font-size: 18px;
@@ -808,9 +808,7 @@ section {
     display: inline-block;
   }
 
-  .typed{
-    font-size: 20px;
-  }
+
 }
 
 /*--------------------------------------------------------------
